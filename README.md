@@ -11,4 +11,4 @@ If you are being harassed, notice that someone else is being harassed, or have a
 We will be happy to assist with any concerns you might have.
 
 ## Conversation on Twitter
-[#whatsgoodchat](https://twitter.com/search?q=%23whatsgoodchat&src=typed_query)
+[#WhatsGoodChat](https://twitter.com/search?q=%23whatsgoodchat&src=typed_query)
